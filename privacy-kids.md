@@ -26,4 +26,4 @@ WebアプリおよびWebサイトには適用されません。
 
 **開発者ホームページ**  
 その他のアプリや情報については、以下をご覧ください。  
-https://zzzmisa.com
+[https://zzzmisa.com](https://zzzmisa.com)
