@@ -17,11 +17,11 @@ WebアプリおよびWebサイトには適用されません。
 本ポリシーは必要に応じて改訂することがあります。
 
 **改訂履歴**  
-2026年2月27日...本ポリシー制定
+2026年2月27日 本ポリシー制定
 
 ## 4. お問い合わせ・開発者情報
 
-本ポリシーに関するご質問は、[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdmZDfWbJXaHeG3EDmlgfXZXdfZw15Ot0gFwtpNbs3yIhTuJA/viewform)からご連絡ください。  
+ご質問は、[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdmZDfWbJXaHeG3EDmlgfXZXdfZw15Ot0gFwtpNbs3yIhTuJA/viewform)からご連絡ください。  
 お問い合わせの際は、お子様の個人情報を記載しないようお願いいたします。
 
 **開発者ホームページ**  
