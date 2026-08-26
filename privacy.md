@@ -1,101 +1,56 @@
 # プライバシーポリシー
 
-zzzmisa.com、及びサブドメインで公開しているサイト（以下「当サイト」）は、ユーザーの個人情報を本プライバシーポリシーに基づき取り扱います。
+## 1. 適用範囲
 
-## 取得する個人情報と利用目的
+本プライバシーポリシーは、zzzmisa.comおよびそのサブドメインで提供するWebサイト・Webサービス（以下「対象サイト」といいます。）に適用されます。
 
-当サイトは、個人情報を以下の目的、及び付随する目的のために利用いたします。
+子ども向けアプリには、[プライバシーポリシー（子ども向けアプリ）](https://policies.zzzmisa.com/privacy-kids)が適用されます。
+
+## 2. 取得する情報
 
 ### お問い合わせ
 
-当サイトでは、お問い合わせの際にお名前、メールアドレス等の個人情報を任意でご入力いただきます。  
-これらの個人情報は、お問い合わせに対する回答に利用いたします。
+利用者がお問い合わせフォーム（Googleフォーム）に入力・送信した情報は、Google LLCが提供するサービス上に保存・処理されます。開発者はフォームの管理者として回答を閲覧し、閲覧した情報を次の目的で利用します。
 
-お問い合わせフォームには、Google フォームを利用しています。  
-Google フォームにおける個人情報の取り扱いについては、[Google プライバシーポリシー](https://policies.google.com/privacy?hl=ja)をご確認ください。
+- お問い合わせへの回答および必要な連絡
+- 不具合や要望の調査、対象サイトの改善
+- 本人からの請求における本人確認と対応
+- 迷惑行為、不正利用または紛争への対応
 
-### アクセス解析
+Googleによる情報の取扱いは、[Googleプライバシーポリシー](https://policies.google.com/privacy?hl=ja)をご確認ください。
 
-当サイトでは、アクセス解析ツールを利用しています。  
-アクセス解析にはCookieが使用されます。
+### 外部送信
 
-#### Google アナリティクス
+対象サイトでは、サイトやページにより、次の外部サービスを使用します。
 
-当サイトでは、Google アナリティクスを利用しています。  
-Google アナリティクスでデータが収集、処理される仕組みについては、[こちら](https://policies.google.com/technologies/partner-sites?hl=ja)をご確認ください（参考：[Google アナリティクス利用規約](https://www.google.com/analytics/terms/jp.html)）。  
-Google アナリティクスにおける個人情報の取り扱いについては、[Google プライバシーポリシー](https://policies.google.com/privacy?hl=ja)をご確認ください。
+| サービス | 送信される情報 | 送信先 | 開発者の利用目的 | 送信先の利用目的 | 停止・設定方法 |
+| --- | --- | --- | --- | --- | --- |
+| Googleタグ・Google Tag Manager | 閲覧したページ・参照元、閲覧日時、ブラウザ・端末、IPアドレス、タグやコンテナの利用に関する情報等 | Google LLC（[Google Tag Manager利用ポリシー](https://marketingplatform.google.com/intl/ja/about/analytics/tag-manager/use-policy/)・[プライバシーポリシー](https://policies.google.com/privacy?hl=ja)） | アクセス解析・広告配信用タグの管理・配信 | サービスの提供・維持・保護・改善 | ブラウザのJavaScript・外部コンテンツの設定、コンテンツブロッカー等（対象サイトの機能に影響する場合があります） |
+| Google Analytics | 閲覧したページ・参照元、操作、閲覧日時、ブラウザ・端末、IPアドレス・そこから推定されるおおよその地域、Cookieに保存されるクライアントID等 | Google LLC（[情報の利用](https://policies.google.com/technologies/partner-sites?hl=ja)・[プライバシーポリシー](https://policies.google.com/privacy?hl=ja)・[利用規約](https://marketingplatform.google.com/about/analytics/terms/jp/)） | 利用状況の分析、対象サイトの改善、障害調査 | 分析サービスの提供・維持・改善 | [Google Analyticsオプトアウトアドオン](https://tools.google.com/dlpage/gaoptout?hl=ja)、ブラウザのCookie設定 |
+| Google AdSense | Cookie等の識別子、対象サイトやほかのWebサイトへの過去のアクセス情報、閲覧したページ、IPアドレス、ブラウザ・端末、広告の表示・操作等 | Google LLC（[情報の利用](https://policies.google.com/technologies/partner-sites?hl=ja)・[プライバシーポリシー](https://policies.google.com/privacy?hl=ja)）および[第三者配信事業者・広告ネットワーク](https://support.google.com/admanager/answer/94149) | 広告配信、広告効果の測定 | Cookie等を使用した広告の配信・カスタマイズ、効果測定、不正行為の防止、サービス改善。Googleやそのパートナーは、対象サイトやほかのサイトへのアクセス情報に基づいて広告を表示します | サイトに表示される同意管理メッセージ（欧州経済領域・英国・スイスで表示）、[Googleの広告設定](https://adssettings.google.com/)、[WebChoices](https://optout.aboutads.info/) |
+| Google Fonts | IPアドレス、閲覧したページ・参照元、閲覧日時、ブラウザ・端末、要求されたフォント等 | Google LLC（[Google Fontsとプライバシー](https://developers.google.com/fonts/faq/privacy?hl=ja)・[プライバシーポリシー](https://policies.google.com/privacy?hl=ja)） | Webフォントの表示 | フォントの配信、利用状況の集計、サービスの提供・維持・改善 | ブラウザの外部コンテンツの設定、コンテンツブロッカー等（表示に影響する場合があります） |
+| コンテンツ配信ネットワーク（cdnjs・jsDelivr・UNPKG・Font Awesome CDN・BootstrapCDN・Material Design Icons CDN） | IPアドレス、閲覧したページ・参照元、閲覧日時、ブラウザ・端末、要求されたファイル等 | [Cloudflare, Inc.](https://www.cloudflare.com/privacypolicy/)・[jsDelivrおよび提携CDN](https://www.jsdelivr.com/terms/privacy-policy)・[Fonticons, Inc.](https://fontawesome.com/privacy)・[Pictogrammers](https://pictogrammers.com/docs/general/privacy-policy/)等 | プログラム、スタイル、アイコン等の配信・表示 | ファイルの配信・キャッシュ、セキュリティ確保、サービスの提供・維持・改善 | ブラウザの外部コンテンツの設定、コンテンツブロッカー等（対象サイトの機能や表示に影響する場合があります） |
+| GitHubのプロフィール画像 | IPアドレス、閲覧したページ・参照元、閲覧日時、ブラウザ・端末、要求された画像等 | GitHub, Inc.（[プライバシーステートメント](https://docs.github.com/ja/site-policy/privacy-policies/github-general-privacy-statement)） | プロフィール画像の表示 | 画像の配信、サービスの提供・保護・改善、利用状況の分析 | ブラウザの外部画像の設定、コンテンツブロッカー等（画像が表示されなくなる場合があります） |
+| Amazonアソシエイト（[blog.zzzmisa.com](https://blog.zzzmisa.com/)で利用） | 閲覧したページ、リンクに含まれるアソシエイトID等、リンクのクリックに関する情報 | アマゾンジャパン合同会社（[プライバシー規約](https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=201909010)） | 商品の紹介、閲覧傾向・広告効果の分析 | 紹介料の算定・報告・支払い、広告宣伝、Webサイト等の監視 | [Amazonの広告表示の設定](https://www.amazon.co.jp/adprefs)（パーソナライズド広告）、アソシエイトリンクをクリックしない（リンク先への送信） |
+| YouTube・Googleマップ | 閲覧したページ、IPアドレス、Cookie等の識別子、ブラウザ・端末、コンテンツの操作等 | Google LLC（[情報の利用](https://policies.google.com/technologies/partner-sites?hl=ja)・[プライバシーポリシー](https://policies.google.com/privacy?hl=ja)） | 外部コンテンツの表示 | コンテンツの提供・維持、利用状況の分析、セキュリティ確保、広告の配信・効果測定 | ブラウザのCookie・JavaScript・外部コンテンツの設定等（情報送信を完全に停止できない場合があります） |
 
-### 広告の配信
+### 第三者提供
 
-当サイトでは、第三者配信の広告サービスを利用しています。  
-広告配信には、CookieやWebビーコンが使用されます。
+開発者は、本人の同意がある場合または法令により認められる場合を除き、個人データを第三者へ提供しません。
 
-#### Google AdSense
+## 3. 改訂について
 
-当サイトでは、Google AdSenseを利用しています。  
-Google AdSenseにおける個人情報の取り扱いについては、[Google プライバシーポリシー](https://policies.google.com/privacy?hl=ja)をご確認ください。  
-また、以下の内容にご注意ください。
+本ポリシーは必要に応じて改訂することがあります。
 
-- Google などの第三者配信事業者が Cookie を使用して、ユーザーがそのウェブサイトや他のウェブサイトに過去にアクセスした際の情報に基づいて広告を配信すること。
-- Google が広告 Cookie を使用することにより、ユーザーがそのサイトや他のサイトにアクセスした際の情報に基づいて、Google やそのパートナーが適切な広告をユーザーに表示できること。
-- ユーザーは、[広告設定](https://www.google.com/settings/ads)でパーソナライズ広告を無効にできること（または、[www.aboutads.info](www.aboutads.info) にアクセスすれば、パーソナライズ広告に使われる第三者配信事業者の Cookie を無効にできること）。
+**改訂履歴**  
+2026年8月26日 プライバシーポリシーを全面改定  
+2019年3月19日 誤字修正  
+2019年1月28日 プライバシーポリシー制定
 
-引用：[Adsense ヘルプ - コンテンツ ポリシー 必須コンテンツ](https://support.google.com/adsense/answer/1348695?hl=ja)
+## 4. お問い合わせ・開発者情報
 
-#### Amazonアソシエイト
+ご質問は、[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdmZDfWbJXaHeG3EDmlgfXZXdfZw15Ot0gFwtpNbs3yIhTuJA/viewform)からご連絡ください。
 
-当サイトは、Amazon.co.jpを宣伝しリンクすることによって、サイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイトプログラムである、Amazonアソシエイト・プログラムの参加者です。  
-第三者がコンテンツおよび宣伝を提供し、訪問者から直接情報を収集し、訪問者のブラウザにクッキーを設定したりこれを認識したりする場合があります(
-参考：[Amazonアソシエイト・プログラム運営規約](https://affiliate.amazon.co.jp/help/operating/agreement)）。  
-Amazonにおける個人情報の取り扱いについては、[Amazon.co.jp プライバシー規約](https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=201909010)をご確認ください。
-
-### 埋め込みコンテンツ
-
-当サイトには、埋め込みコンテンツ（Youtube、Google マップ等）が含まれる場合があります。  
-外部サイトからの埋め込みコンテンツは、ユーザーがそのサイトを訪れた場合と同じように振る舞います。  
-これらの外部サイトが、ユーザーの個人情報を収集、利用することがあります。  
-外部サイトにおける個人情報の取り扱いについては、各外部サイトのプライバシーポリシーをご確認ください。
-
-### 外部リンク
-
-当サイトには、外部サイトへのリンクが含まれる場合があります。  
-外部サイトにアクセスした場合の個人情報の取り扱いについては、各外部サイトのプライバシーポリシーをご確認ください。
-
-### SNS
-
-当サイトでは、SNSボタン（はてなブックマークボタン、Twitterのシェアボタン等）を設置しています。  
-一部のSNSは、SNSボタンを押さなくとも、ユーザーID・アクセスしているサイト等の情報が自動で送信されていることがあります（参考：[個人情報保護委員会 - SNSの利用者のみなさまへの留意事項](https://www.ppc.go.jp/news/careful_information/sns_button_life/)。
-）。  
-各SNSにおける個人情報の取り扱いについては、各SNSのプライバシーポリシーをご確認ください。
-
-なお、当サイトの運営者は、SNSを使って情報発信を行うことがあります。  
-SNSを通して取得した個人情報についても、本プライバシーポリシーに基づき取り扱います。
-
-## 統計処理されたデータの利用
-
-当サイト運営者は、収集した個人情報をもとに、個人を特定できないよう加工した統計データを作成することがあります。  
-個人を特定できない統計データについては、当サイト運営者は何ら制限なく利用することができるものとします。
-
-## 第三者提供
-
-当サイト運営者は、次のいずれかに該当する場合を除き、個人情報を第三者に開示いたしません。
-
-- ユーザーの同意がある場合
-- 利用目的に従って、外部サービスに個人情報が提供される場合
-- 利用目的の達成に必要な範囲内において、個人情報の取扱いを委託する場合
-- 当サイトや当サイトが提供するサービスの承継に伴って個人情報が提供される場合
-- 当サイトまたはユーザーの権利・財産を保護するために必要だと判断した場合
-- 個人情報保護法その他の法令に基づき開示が認められる場合
-
-## 改定
-
-当サイトは、個人情報の取扱いに関する運用状況を適宜見直し、事前の予告なく本プライバシーポリシーを変更することがあります。
-
-#### 改訂履歴
-
-2019年1月28日…プライバシーポリシー制定  
-2019年3月19日…誤字修正
-
-## お問い合わせ先
-
-本プライバシーポリシーに関してご質問がある場合は、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdmZDfWbJXaHeG3EDmlgfXZXdfZw15Ot0gFwtpNbs3yIhTuJA/viewform)までお問い合わせください。
+**開発者ホームページ**  
+その他のアプリや情報については、以下をご覧ください。  
+[https://zzzmisa.com](https://zzzmisa.com)
